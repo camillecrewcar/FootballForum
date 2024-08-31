@@ -1,0 +1,21 @@
+
+body{
+    background-color: #337551;
+    color: white;
+    font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin: 0%;
+  padding: 0%;
+}
+header{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+
+
+}
+ul{
+    display: inline;
+
+}
